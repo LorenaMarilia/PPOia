@@ -1,13 +1,4 @@
 # PPOia
 aaaaaaaaaaa
 
-qualquer coisinha aaaa
-aaaa
-ihaaa
-    :P
-
-    tabela?
-
-        |num1||num2|
-        |feliz||triste|
-        |grrrrr||argkm|
+**ESTE É UM PROJETO DE TESTE - ESTOU APRENDENDO A UTILIZAR A GRANDIOSIDADE CRIADA PELO MEU IDOLO LINUS TORVALDS CONHECIDA COMO GIT - NÃO CLONA NÃO >:(**
